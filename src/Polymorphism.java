@@ -5,15 +5,11 @@ class  Bird{
     }
 }
 
-
-
 class Robin extends Bird{
     public  void  sing(){
-        System.out.println("tweet tweet tweet");
+        System.out.println("twiddledeedee");
     }
 }
-
-
 
 
 public class Polymorphism {
